@@ -1,0 +1,40 @@
+#2 Kills In Row
+sfx/announcer/Unreal/doublekill.wav
+#3 Kills In Row
+sfx/announcer/Unreal/multikill.wav
+#4 Kills In Row
+sfx/announcer/Unreal/killingspree.wav
+#5 Kills In Row
+sfx/announcer/Unreal/ultrakill.wav
+#6 Kills In Row
+sfx/announcer/Unreal/rampage.wav
+#7 Kills In Row
+sfx/announcer/Unreal/monsterkill.wav
+#8 Kills In Row
+sfx/announcer/Unreal/dominating.wav
+#9 Kills In Row
+sfx/announcer/Unreal/godlike.wav
+#10 Kills In Row
+sfx/announcer/Unreal/unstoppable.wav
+#2 Kills In Air
+sfx/announcer/Unreal/perfect.wav
+#Stop Kills In Row
+sfx/announcer/Unreal/excellent.wav
+#Game Start Fade Out/In
+sfx/announcer/Unreal/prepare.wav
+#Game Start Count Down 3
+sfx/packs/Classic/starwarning.wav
+#Game Start Count Down 2
+sfx/packs/Classic/starwarning.wav
+#Game Start Count Down 1
+sfx/packs/Classic/starwarning.wav
+#Game Start Go!
+sfx/announcer/Mario/lets_go.wav
+#Red Team Removed From Game
+sfx/packs/Classic/powerdown.wav
+#Green Team Removed From Game
+sfx/packs/Classic/powerdown.wav
+#Yellow Team Removed From Game
+sfx/packs/Classic/powerdown.wav
+#Blue Team Removed From Game
+sfx/packs/Classic/powerdown.wav
