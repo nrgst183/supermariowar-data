@@ -1,2 +1,4 @@
 # The level editor saves its work in progress here
 maps/ZZleveleditor.map
+# The world editor's too
+worlds/ZZworldeditor.txt
